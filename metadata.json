@@ -1,0 +1,6 @@
+{
+  "name": "MedTrace",
+  "description": "Проверка происхождения и подлинности лекарств за несколько секунд в сети Solana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
